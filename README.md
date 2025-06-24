@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Frontend Developer with over six years of experience, specializing in React, Vue, Next, and Typescript. My focus areas include analytics, advertising, marketing, and e-commerce.
+I'm a Senior Frontend Developer with over seven years of experience, specializing in React, Vue, Next, and Typescript. My focus areas include analytics, advertising, marketing, and e-commerce.
 
 ## 🛠️ Skills
 
