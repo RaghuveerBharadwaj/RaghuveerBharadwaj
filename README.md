@@ -21,7 +21,7 @@ I'm a Senior Frontend Developer with over seven years of experience, specializin
 - Mentored junior developers and conducted code reviews.
 - Contributed to Analytics domain projects, ensuring business alignment.
 
-### Senior Frontend Engineer - BillMe (Sep 2020 - Oct 2022)
+### Senior Frontend Engineer - Razorpay (BillMe) (Sep 2020 - Oct 2022)
 
 - Implemented features, maintained code quality, and applied standard procedures.
 
